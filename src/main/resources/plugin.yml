@@ -1,8 +1,7 @@
 name: GamePluginforMOCI
 main: com.github.smk7758.GamePluginforMOCI.Main
-version: 0.0.1
+version: 0.0.2
 author: smk7758
-permissions:
 commands:
   GamePluginforMOCI:
-    description: BukkitPluginBasic's command.
+    description: GamePluginforMOCI's command.
